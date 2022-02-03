@@ -24,4 +24,4 @@ When using Cudo Compute, you will have access to multiple locations to build and
 
 ![img](./zones.png)
 
-Further locations will be added during the testing phase.
+Further locations may be added during the testing phase based on demand.

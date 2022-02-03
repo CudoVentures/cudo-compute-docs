@@ -29,3 +29,26 @@ If you are unsure how to create a SSH key, please refer to the below documentati
 [Linux / OSX](https://www.ssh.com/academy/ssh/keygen)
 
 ## Two Factor Authentication
+
+If you wish to enable Two Factor Authentication for security purposes, this is possible by using a TOTP/HOTP (Time-based One-Time Password/HMAC-based One-Time Password) app such as Google Authenticator or Authy.
+
+Click on "Two Factor Authentication" within the Settings screen and then click "Manage two factor authentication".
+
+![img](./twofactor1.png)
+
+Click "Register authenticator app" and you will be shown a QR code.
+
+![img](./twofactor2.png)
+
+Scan the QR code with your authenticator application and enter the verification code into the Cudo Compute interface. Click "Enable".
+
+You will now be required to enter a verification code each time you log into the Cudo Compute interface.
+
+![img](./twofactor3.png)
+
+### Removing an Authenticator
+
+If you decide you no longer want two factor authentication enabled, you can go back into the Two factor settings screen and click the 'x' in the row that your authenticator app is registered.
+
+![img](./twofactor4.png)
+

@@ -123,3 +123,11 @@ Please refer to the table below for a list of all available Scheduled Tasks
 | snapshot-create | Create a VM snapshot, with the name of your choice, at the specified time.  |
 | snapshot-delete | Delete the VM snapshot, passing it the Snapshot ID, at the specified time.  |
 | snapshot-revert | Revert the VM from the Snapshot ID that you want, at the specified time.  |
+
+## Changing Password
+
+Please note, if you wish to change the root password of your VM after it has been deployed, it is important to run the following command before you next reboot the VM.
+
+``` shell
+rm /etc/one-context.d/loc-20-set-username-password
+```

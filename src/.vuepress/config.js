@@ -42,7 +42,7 @@ module.exports = {
     ],
     sidebar: {
       '/start/': [
-        'getting-started',
+        '',
         'templates',
         'building-vms',
         'managing-vms',

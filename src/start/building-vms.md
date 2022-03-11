@@ -8,7 +8,7 @@ This will open a list of currently available [templates](templates.md#available-
 
 ![img](./createvm1.png)
 
-You can now enter your preferred name for the VM and choose the CPU, RAM and size of the initial disk by using the appropiate sliders.
+You can now enter your preferred name for the VM and choose the CPU, RAM and size of the initial disk by using the appropriate sliders.
 
 ![img](./createvm2.png)
 

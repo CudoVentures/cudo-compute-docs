@@ -32,6 +32,6 @@ Further locations may be added during the testing phase based on demand.
 
 If you require assistance while using the Cudo Compute platform, you can login to the Support Portal: [https://cudo.force.com/](https://cudo.force.com/). 
 
-You should have received access to this portal when you gained access to Cudo Compute, however if you do not, please reach out to the Services team via email: [services@cudoventures.com](mailto:services@cudoventures.com)
+You should have received access to this portal when you gained access to Cudo Compute, however if you do not, please reach out to the Services team via email: [cudoforce@cudoventures.com](mailto:cudoforce@cudoventures.com)
 
 ![img](./support.png)
